@@ -510,10 +510,13 @@ main{
     
 }
    
-@media  screen and (max-width: 1035px){
+@media  screen and (max-width: 1036px){
     .hero{
         height: 55rem;
         background-position: 0;
         background-position: center;
+    }
+    #productos .row3 button{
+        width:50%;
     }
 }
